@@ -1,0 +1,9 @@
+required packages:
+numpy
+pandas
+matplotlib
+seaborn
+pyts
+scikit-learn
+torch
+jupyter
